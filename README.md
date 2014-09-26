@@ -8,7 +8,7 @@ Obesity is a leading preventable cause of death worldwide, with increasing rates
 
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. BMI provides a simple numeric measure of a person's thickness or thinness, allowing health professionals to discuss overweight and underweight problems more objectively with their patients. It is a simple mean of classifying sedentary (physically inactive) individuals [1].
 
-[1] [Wiki link](http://en.wikipedia.org/wiki/Body_mass_index)
+[1] [Wiki link to BMI](http://en.wikipedia.org/wiki/Body_mass_index)
 
 ## App
 
