@@ -1,5 +1,7 @@
 # Body Mass Index Calculator App
 
+This is an educational project, which is the part of [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) provided by Johns Hopkins University on Coursera. 
+
 ## Introduction
 
 Obesity is a leading preventable cause of death worldwide, with increasing rates in adults and children. Authorities view it as one of the most serious public health problems of the 21st century.
